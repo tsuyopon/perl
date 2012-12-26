@@ -1,0 +1,2 @@
+sample:
+	perl sample.pl
