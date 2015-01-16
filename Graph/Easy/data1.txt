@@ -1,0 +1,7 @@
+###############################################
+# usage: cat data1.txt | /usr/bin/graph-easy
+###############################################
+[ Server1 ] == Cat5 Cable ==> [ Gateway ]
+[ Gateway ] == Cat5 Cable ==>  [ Server2 ] { origin: Gateway; offset: 2,0; }
+[ Gateway ] -- cable router-\>Gateway --> [ Special\nRouter ]
+                                         { origin: Gateway; offset: 0,2; }
