@@ -1,0 +1,2 @@
+hoge @pparam=/home/hoge/txt @pparam=/home/hoge/text2 fadjf @pparam=/home/sts/hoge
+moge @pparam=/home/moge/txt @pparam=/home/moge/text2 aaaxz @pparam=/home/zzz/moge
